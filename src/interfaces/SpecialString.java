@@ -1,5 +1,7 @@
 package interfaces;
 
+import TextFunifier.TextFunkifier;
+
 public abstract class SpecialString implements TextFunkifier{
 	protected String s;
 	
